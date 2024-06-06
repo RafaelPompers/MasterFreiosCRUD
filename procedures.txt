@@ -1,0 +1,27 @@
+Procedures que preciso
+---------------------------------------------------------------------------------------------------------------------------
+
+Aba Relatorio
+Feito
+1°- Uma procedure que pegue o Id da venda e retorne o nome do produto.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Aba CadastroVendas
+Feito
+1°- Uma procedure que pega o Id da venda e retorna os campos Nome do produto e quantidade.
+Feito
+2°- Uma procedure que pega o Id da venda e atualiza com o novo status passado no campo.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Aba CadastroEstoque
+Feito
+1°- Uma procedure que pegue o Nome do produto e retorno os campos Valor Pago, Valor Venda, Lucro(Campo somente da tela),
+Nome do Fornecedor, Quantidade Comprada e Tipo de Pagamento.
+Feito
+2°-  Uma procedure que pegue o Nome do produto e atualiza com os novo campos (Valor Pago, Valor Venda, Lucro(Campo somente da tela),
+Nome do Fornecedor, Quantidade Comprada e Tipo de Pagamento) passados.
+
+---------------------------------------------------------------------------------------------------------------------------
